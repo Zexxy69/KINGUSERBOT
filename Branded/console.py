@@ -46,13 +46,13 @@ COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", ". !").split())
 
 # PM GUARD VARS
 PM_GUARD = bool(getenv("PM_GUARD", True))
-PM_GUARD_TEXT = getenv("PM_GUARD_TEXT", "**🥀 Hey, I am an advanced & superfast high quality userbot assistant with an upgraded version security system.\n\n🌿 I can't let you message my owner's dm without my owner's permission.\n\n🌺 My owner is offline now, please wait until my owner allows you.\n\n🍂 Please don't spam here, because spamming will force me to block you from my owner id.**")
+PM_GUARD_TEXT = getenv("PM_GUARD_TEXT", "**🥀 sun mai dexter boss ka naukar hu.\n\n🌿 mai tumko bina malik se permission liye tumko chat kar ne ka permission nhi dunga.\n\n🌺 mere malik abhi offline hai unko parisaan mat kr.\n\n🍂 chal baar baar message mat kar nhi toh malik ke id se tereko block krdunga samjha chumtiye.**")
 PM_GUARD_LIMIT = int(getenv("PM_GUARD_LIMIT", 5))
 
 
 
 # USERBOT DEFAULT IMAGE
-USERBOT_PICTURE = getenv("USERBOT_PICTURE", "https://te.legra.ph/file/11cfa74175b590014bd16.jpg")
+USERBOT_PICTURE = getenv("USERBOT_PICTURE", "https://telegra.ph/file/75eb3a3ade15f298b1c1a.jpg")
 
 
 
